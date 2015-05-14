@@ -1,0 +1,17 @@
+[crowdspider]
+depth_in_site=3
+follow_external_links=false
+from=yunlong.lee@163.com
+limit_domain_list=.com .cn .hk
+proxy_server=http://219.235.232.24:1979
+spider_worker_num=8
+start_url=http://tech.sina.com.cn/
+user_agent=crowdspider
+wait_duration=60
+allowable_extensions=.htm .htm .shtml
+
+[proxy]
+auth=false
+host=119.254.229.24
+port=1979
+type=http

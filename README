@@ -1,0 +1,6 @@
+crowdspider is a web crawler. crowdspider is (just) a web crawler, NOT an indexer. 
+You have to write some code yourself in order to save pages or index them in a database.
+
+cd build
+./dspider
+
